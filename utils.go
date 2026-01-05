@@ -2,8 +2,6 @@
 // Use of this source code is governed by a GNU GPL-style license
 // that can be found in the LICENSE.md file. All rights reserved.
 
-// Package utils provides unified utility functions for the Edge Network,
-// including wallet utilities for the XE blockchain and identity management.
 package utils
 
 import (
